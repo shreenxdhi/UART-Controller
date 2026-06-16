@@ -67,7 +67,7 @@ run -all
 ```
 ## Example Waveform 
 
-! (waveform.png)
+![Simulation Waveform] (waveform.png)
 ## How It Works
 
 - **TX**: Takes a byte, adds a start bit and stop bit, then sends it one bit at a time
