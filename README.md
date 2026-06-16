@@ -65,7 +65,9 @@ vlog *.v *.sv
 vsim tb_uart_top
 run -all
 ```
+## Example Waveform 
 
+! (waveform.png)
 ## How It Works
 
 - **TX**: Takes a byte, adds a start bit and stop bit, then sends it one bit at a time
